@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanalBlanco.png",UNICANAL
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/ABC-TV-Paraguay-en-vivo-Online.png",ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png",ÑANDUTÍ TV
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png",RCC
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png",SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU",ESTACIÓN CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.postimg.cc/wTKd5RS9/panambi-vera.png",RADIO PANAMBI VERÁ
+https://59ce1298bfb98.streamlock.net/panambi/panambi/chunklist_w1855680502.m3u8
+#EXTINF:-1 group-title="NACIONALES",ALMAYA TV
